@@ -4,10 +4,10 @@ A powerful bot for automatically mining gems on the Rubi Click platform with sup
 
 ## Register here: 
 
-1st: Download their app : [Rubi - Apps on Google Play](https://play.google.com/store/apps/details?id=com.nemoholding.android.rubi) 
+1st: Download their app : [Rubi - Apps on Google Play](https://rubi.click/join/BILALRAI) 
 if you're using IOS just type Rubi on your AppStore, I think that's the app is called
 
-2nd: Use Code: **FARMER**
+2nd: Use Code: **BILALRAI**
 
 3rd: Add me to your Trust Circle
 DONE
@@ -35,8 +35,8 @@ DONE
 
 1. Clone this repository:
    ```
-   git clone https://github.com/kelliark/Rubi-AutoBot
-   cd Rubi-AutoBot
+   git clone https://github.com/bilalrai12/Rubi_App.git
+   cd Rubi_App
    ```
 
 2. Install required packages:
